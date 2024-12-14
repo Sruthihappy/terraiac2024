@@ -1,0 +1,4 @@
+azurerm virtual network {
+}
+
+}
